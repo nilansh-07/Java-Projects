@@ -1,5 +1,6 @@
 /*
- The Java Bank Account Management System is a basic console-based program designed to simulate essential functionalities of a bank account management system. While it provides a foundation for managing bank accounts, deposits, and withdrawals, it should be considered a simplified educational example rather than a full-fledged banking application.
+ The Java Bank Account Management System is a basic console-based program designed to simulate the essential functionalities of a bank account management system. 
+ While it provides a foundation for managing bank accounts, deposits, and withdrawals, it should be considered a simplified educational example rather than a full-fledged banking application.
  */
 
 import java.util.ArrayList;
